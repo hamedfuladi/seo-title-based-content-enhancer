@@ -2,9 +2,11 @@
 /**
  * Plugin Name: SEO Title-Based Content Enhancer
  * Description: Inserts a dynamic text based on the post title at the end of post content for SEO purposes.
- * Version: 1.0
+ * Version: 1.0.0
  * Author: Hamed Fuladi
  * Author URI: https://hamedfuladi.github.io/
+ * License: GPLv3
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  */
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
