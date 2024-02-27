@@ -4,8 +4,8 @@ Contributors: Hamed Fuladi
 Tags: SEO, content enhancement, post title, dynamic text
 Tested up to: 6.4.2
 Stable tag: 1.0.0
-License: GPL-2.0+
-License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+License: GPL-3.0+
+License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
 == Description ==
 
