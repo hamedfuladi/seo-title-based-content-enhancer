@@ -60,4 +60,10 @@ There are no upgrade notices at this time.
 
 == License ==
 
-This plugin is released under the GPL-2.0+ License. See [License](http://www.gnu.org/licenses/gpl-2.0.txt) for more details.
+This plugin is released under the GPL-3.0+ License. See [License](https://www.gnu.org/licenses/gpl-3.0.txt) for more details.
+
+== Developer Note ==
+
+For transparency and compliance with WordPress guidelines, we provide access to the uncompressed versions of the files used in this plugin:
+- [select2.css](https://github.com/select2/select2/blob/develop/dist/css/select2.css)
+- [select2.js](https://github.com/select2/select2/blob/develop/dist/js/select2.js)
